@@ -1,0 +1,6 @@
+{
+  "name": "OmniLearn",
+  "description": "Interactive educational learning platform featuring bite-sized micro-courses, active recall flashcards, quizzes, formula cheat sheets, and study streak tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
